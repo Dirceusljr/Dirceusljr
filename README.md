@@ -1,4 +1,4 @@
-## Olá, me chamo Dirceu dos Santos, dev. Full Stack! Bem vindo ao meu perfil GitHub 👋
+## Olá, me chamo Dirceu dos Santos, Dev. Full Stack! Bem vindo ao meu perfil GitHub 👋
 
 ## 👋 Hello! Welcome to my Github profile. My name is Dirceu dos Santos, Full Stack Dev.
 &nbsp;
